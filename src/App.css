@@ -1,0 +1,8 @@
+.on{
+    background-color: green;
+    transform: translateX(50px);
+}
+.off{
+    background-color: red;
+    transform: translateX(0px);
+}
